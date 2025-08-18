@@ -14,13 +14,13 @@ This website showcases my **skills, education, projects, achievements, and conta
 - 🌐 Hosted using **GitHub Pages** for global accessibility.  
 
 ## 📂 Project Structure  
-  portfolio/
+  Portfolio/
 │── index.html # Main HTML file
 │── photov.jpg # My profile picture
 
 
 ## 🚀 Live Demo  
-🔗 [Click Here to View Portfolio](https://vaishnavi8754.github.io/portfolio)  
+🔗 [Click Here to View Portfolio](https://vaishnavi8754.github.io/Portfolio/)  
 
 
 ## 🛠️ Technologies Used  
@@ -31,4 +31,4 @@ This website showcases my **skills, education, projects, achievements, and conta
 ## 💡 How to Use / Run Locally  
 1. Clone this repo  
    ```bash
-   git clone https://github.com/vaishnavi8754/portfolio.git
+   git clone https://github.com/vaishnavi8754/Portfolio.git
