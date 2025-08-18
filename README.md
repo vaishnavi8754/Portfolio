@@ -14,3 +14,24 @@ This website showcases my **skills, education, projects, achievements, and conta
 - 🌐 Hosted using **GitHub Pages** for global accessibility.  
 
 ## 📂 Project Structure  
+  portfolio/
+│── index.html # Main HTML file
+│── photov.jpg # My profile picture
+
+
+## 🚀 Live Demo  
+🔗 [Click Here to View Portfolio](https://USERNAME.github.io/portfolio)  
+*(Replace `USERNAME` with your GitHub username once hosted)*  
+
+## 📸 Preview  
+![Portfolio Preview](https://via.placeholder.com/900x500.png?text=Portfolio+Preview)  
+*(Add a screenshot of your site after hosting)*  
+
+## 🛠️ Technologies Used  
+- **HTML5**  
+- **CSS3** (with Flexbox & Grid for layout, hover animations, and shadows)  
+
+## 💡 How to Use / Run Locally  
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/USERNAME/portfolio.git
